@@ -15,4 +15,9 @@ The library is available on [NuGet](https://www.nuget.org/packages/GestioneSagre
 ### Referenced packages
 
 - Microsoft.AspNetCore.Components.Web
+- Microsoft.AspNetCore.Components.WebAssembly
+- Microsoft.AspNetCore.Components.WebAssembly.DevServer
+- BlazorKit.Spinners
 - MudBlazor
+- Scrutor
+- System.Net.Http.Json

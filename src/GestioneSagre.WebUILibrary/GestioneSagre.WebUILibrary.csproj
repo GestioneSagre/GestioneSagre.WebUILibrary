@@ -20,7 +20,12 @@
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/GestioneSagre/GestioneSagre.WebUILibrary</RepositoryUrl>
         <RepositoryBranch>master</RepositoryBranch>
+        <ApplicationIcon>Library.ico</ApplicationIcon>
     </PropertyGroup>
+
+    <ItemGroup>
+      <Content Include="Library.ico" />
+    </ItemGroup>
 
     <ItemGroup>
         <None Include="..\..\Library.png">
