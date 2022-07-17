@@ -1,6 +1,8 @@
 # GestioneSagre Web UI Library
 
-[![NuGet](https://img.shields.io/nuget/v/GestioneSagre.WebUILibrary.svg?logo=nuget&style=for-the-badge)](https://www.nuget.org/packages/GestioneSagre.WebUILibrary)
+### DEPRECATED
+
+<!--[![NuGet](https://img.shields.io/nuget/v/GestioneSagre.WebUILibrary.svg?logo=nuget&style=for-the-badge)](https://www.nuget.org/packages/GestioneSagre.WebUILibrary)
 [![Nuget](https://img.shields.io/nuget/dt/GestioneSagre.WebUILibrary.svg?logo=nuget&style=for-the-badge)](https://www.nuget.org/packages/GestioneSagre.WebUILibrary)
 [![MIT](https://img.shields.io/github/license/GestioneSagre/GestioneSagre.WebUILibrary?logo=github&style=for-the-badge)](https://github.com/GestioneSagre/GestioneSagre.WebUILibrary/blob/master/LICENSE)
 ![Github](https://img.shields.io/github/last-commit/GestioneSagre/GestioneSagre.WebUILibrary?logo=github&style=for-the-badge)
@@ -17,4 +19,4 @@ The library is available on [NuGet](https://www.nuget.org/packages/GestioneSagre
 - Microsoft.AspNetCore.Components.Web
 - BlazorKit.Spinners
 - MudBlazor
-- Scrutor
+- Scrutor -->

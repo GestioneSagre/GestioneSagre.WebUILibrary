@@ -12,8 +12,8 @@
         <Company>Gestione Sagre</Company>
         <Product>Gestione Sagre Web UI Library</Product>
         <Title>Gestione Sagre Web UI Library</Title>
-        <Description>GestioneSagre Web UI Library components</Description>
-        <PackageTags>gestione sagre web ui library csharp net netcore web opensource</PackageTags>
+        <Description>GestioneSagre Deprecated</Description>
+        <PackageTags>gestione sagre web library deprecated not use</PackageTags>
         <PackageIcon>Library.png</PackageIcon>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
         <PackageReadmeFile>README.md</PackageReadmeFile>
